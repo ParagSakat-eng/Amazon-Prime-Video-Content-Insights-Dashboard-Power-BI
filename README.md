@@ -17,7 +17,7 @@ CSV dataset containing Amazon Prime metadata:
 - Duration
 - Release Year
 - Start and End Year
-<a href="https://github.com/ParagSakat-eng/Amazon-Prime-Video-Content-Insights-Dashboard-Power-BI/blob/main/amazon_prime_titles.csv"> Amazon Prime Streaming Data </a>
+- <a href="https://github.com/ParagSakat-eng/Amazon-Prime-Video-Content-Insights-Dashboard-Power-BI/blob/main/amazon_prime_titles.csv"> Amazon Prime Streaming Data </a>
 
 ## ❓ Questions Answered (KPIs)
 
