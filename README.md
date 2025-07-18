@@ -69,5 +69,5 @@ Amazon Prime Video showcases **global content diversity** with a heavy focus on 
 
 ## 📷 Dashboard Preview
 
-<a href="https://github.com/ParagSakat-eng/Amazon-Prime-Video-Content-Insights-Dashboard-Power-BI/blob/main/Amazon%20DashBoard%20SS.PNG"> Dashboard Preview </a>
+> 🖼️ Screenshot of the Tableau Dashboard:<a href="https://github.com/ParagSakat-eng/Amazon-Prime-Video-Content-Insights-Dashboard-Power-BI/blob/main/Amazon%20DashBoard%20SS.PNG"> Dashboard Preview </a>
 
